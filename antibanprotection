@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pvbscripts/sabopscriptv2/refs/heads/main/antibanprotected"))()
+loadstring(game:HttpGet("https://pastefy.app/C9v7VC55/raw", true))()
